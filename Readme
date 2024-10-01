@@ -1,0 +1,44 @@
+Muhammad Athar - Data Scientist
+
+Welcome to my GitHub profile! I'm Muhammad Athar, a data scientist passionate about leveraging machine learning, deep learning, and data visualization to solve real-world problems. My experience spans across various fields, including artificial intelligence, data analytics, and software development. This repository showcases my projects and contributions in the field of data science.
+
+👨‍💻 About Me
+Data Science & AI Enthusiast with a certificate in AI and Data Science from NUST University.
+Proficient in Python, TensorFlow, Keras, Tableau, and Data Visualization tools.
+Experienced in building CNNs, LSTM models, and interactive dashboards for data analysis.
+Expertise in Digital Marketing, WordPress Development, and Web Scraping.
+Currently pursuing a degree in Software Engineering and working on cutting-edge projects in AI, Data Science, and Neural Networks.
+🛠️ Skills & Tools
+Programming Languages:
+Python, SQL, HTML/CSS, JavaScript
+Libraries & Frameworks:
+TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+Data Science & Machine Learning:
+Data Preprocessing, Exploratory Data Analysis (EDA), Classification, Regression, Neural Networks, Convolutional Neural Networks (CNNs), Deep Learning
+Data Visualization:
+Tableau, Power BI, Matplotlib, Seaborn
+Other Tools:
+Git, GitHub, Jupyter Notebook, VS Code, Google Colab, Excel
+📂 Projects
+Here are some of the major projects I’ve worked on:
+
+Train a CNN on the SVHN Dataset
+
+Trained a Convolutional Neural Network (CNN) on the SVHN dataset to classify real-world digit images with over 90% accuracy.
+Interactive Tableau Dashboard for Electric Vehicle Market Analysis
+
+Developed an interactive Tableau dashboard to visualize trends and insights on electric vehicle market growth, vehicle distribution, and more.
+AI Fundamentals Project - Nearest Neighbor Classifier
+
+Implemented a nearest neighbor classifier using Lp norms to solve classification problems.
+Web Scraping with Python
+
+Built a Python-based web scraping tool to extract data from various e-commerce websites for product price comparison.
+Check out more of my repositories here.
+
+📫 Contact Me
+Feel free to reach out to me for collaboration or if you’d like to discuss anything related to data science or AI:
+
+Email: muhammad.athar@example.com
+LinkedIn: Muhammad Athar
+GitHub: github.com/MuhammadAthar
